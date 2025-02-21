@@ -1,0 +1,16 @@
+{
+    "editor.fontFamily": "'ComicShannsMono Nerd Font', Mononoki, Consolas, 'Courier New', monospace",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "workbench.colorTheme": "Monokai Pro",
+    "editor.stickyScroll.enabled": false,
+    "workbench.iconTheme": "Monokai Pro Icons"
+}
