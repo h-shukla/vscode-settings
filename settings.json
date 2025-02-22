@@ -1,16 +1,20 @@
 {
-    "editor.fontFamily": "'ComicShannsMono Nerd Font', Mononoki, Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "'ComicShannsMono Nerd Font Mono', Consolas, 'Courier New', monospace",
     "[dart]": {
         "editor.formatOnSave": true,
         "editor.formatOnType": true,
-        "editor.rulers": [
-            80
-        ],
+        "editor.rulers": [80],
         "editor.selectionHighlight": false,
         "editor.tabCompletion": "onlySnippets",
-        "editor.wordBasedSuggestions": "off"
+        "editor.wordBasedSuggestions": "off",
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": "always"
+        }
     },
     "workbench.colorTheme": "Monokai Pro",
     "editor.stickyScroll.enabled": false,
-    "workbench.iconTheme": "Monokai Pro Icons"
+    "workbench.iconTheme": "Monokai Pro Icons",
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.location": "top",
+    "editor.minimap.enabled": false
 }

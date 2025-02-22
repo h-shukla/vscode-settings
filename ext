@@ -1,5 +1,10 @@
 code --install-extension christian-kohler.path-intellisense
 code --install-extension dart-code.dart-code
 code --install-extension dart-code.flutter
+code --install-extension jeroen-meijer.pubspec-assist
 code --install-extension monokai.theme-monokai-pro-vscode
+code --install-extension naumovs.color-highlight
 code --install-extension oderwat.indent-rainbow
+code --install-extension rangav.vscode-thunder-client
+code --install-extension usernamehw.errorlens
+code --install-extension vscjava.vscode-gradle
