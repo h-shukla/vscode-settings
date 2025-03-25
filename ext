@@ -1,9 +1,14 @@
-code --install-extension christian-kohler.path-intellisense
-code --install-extension dart-code.dart-code
-code --install-extension dart-code.flutter
-code --install-extension jeroen-meijer.pubspec-assist
-code --install-extension naumovs.color-highlight
-code --install-extension oderwat.indent-rainbow
-code --install-extension rangav.vscode-thunder-client
-code --install-extension usernamehw.errorlens
-code --install-extension vscjava.vscode-gradle
+bradlc.vscode-tailwindcss
+christian-kohler.path-intellisense
+dart-code.dart-code
+dart-code.flutter
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+formulahendry.auto-close-tag
+formulahendry.auto-complete-tag
+formulahendry.auto-rename-tag
+pmndrs.pmndrs
+rangav.vscode-thunder-client
+rodrigovallades.es7-react-js-snippets
+usernamehw.errorlens
+wayou.vscode-todo-highlight
