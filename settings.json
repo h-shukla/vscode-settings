@@ -11,15 +11,15 @@
     "editor.minimap.enabled": false,
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.tabSize": 2,
+    "editor.tabSize": 4,
     "editor.insertSpaces": true,
     "files.trimTrailingWhitespace": true,
     "files.insertFinalNewline": true,
     "javascript.format.enable": false,
     "typescript.format.enable": false,
     "workbench.activityBar.location": "top",
-    "workbench.sideBar.location": "right",
-    "editor.fontFamily": "'Cascadia Code', Menlo, Consolas, 'Courier New', monospace",
+    "workbench.sideBar.location": "left",
+    "editor.fontFamily": "'Cascadia Mono', Menlo, Consolas, 'Courier New', monospace",
     "[dart]": {
         "editor.formatOnSave": true,
         "editor.formatOnType": true,
@@ -31,7 +31,6 @@
     "[css]": {
         "editor.defaultFormatter": "vscode.css-language-features"
     },
-    "workbench.colorTheme": "poimandres",
-    "editor.fontSize": 12,
+    "editor.fontSize": 13,
     "window.commandCenter": false
 }
