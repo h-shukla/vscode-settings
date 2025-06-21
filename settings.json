@@ -18,7 +18,7 @@
     "javascript.format.enable": false,
     "typescript.format.enable": false,
     "workbench.activityBar.location": "top",
-    "workbench.sideBar.location": "left",
+    "workbench.sideBar.location": "right",
     "editor.fontFamily": "'Cascadia Mono', Menlo, Consolas, 'Courier New', monospace",
     "[dart]": {
         "editor.formatOnSave": true,
